@@ -1,0 +1,13 @@
+h1 {
+  visibility: hidden;
+}
+ .img1 , .img2 , .img3 , .img4 , .img5 , .img6{
+ font-family: 'Six Caps', sans-serif;
+ background: #ffffff;
+opacity: .4;
+}
+.button {
+  font-size: 20px;
+  line-height: 1.6;
+  font-family: 'Six Caps', sans-serif;
+}
